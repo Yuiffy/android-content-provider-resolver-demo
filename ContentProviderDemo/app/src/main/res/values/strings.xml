@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentProviderDemo</string>
+    <string name="add_player">添加用户</string>
+    <string name="title_activity_add_player">添加用户的界面</string>
+</resources>
