@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 		String s = "qwerty";
         setContentView(R.layout.activity_main);
+		Integer i = 6;
         findViewById(R.id.button_concact).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
