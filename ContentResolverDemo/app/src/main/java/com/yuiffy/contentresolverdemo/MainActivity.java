@@ -12,12 +12,15 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//this is MainActivity, oh
 public class MainActivity extends AppCompatActivity {
-
+//this is the onCreate function!
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+		String s = "qwerty";
         setContentView(R.layout.activity_main);
+		Integer i = 12345 + 6;
         findViewById(R.id.button_concact).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
