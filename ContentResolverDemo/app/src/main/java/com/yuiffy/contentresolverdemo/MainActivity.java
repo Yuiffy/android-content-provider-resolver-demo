@@ -13,7 +13,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-
+//this is the onCreate function!
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
