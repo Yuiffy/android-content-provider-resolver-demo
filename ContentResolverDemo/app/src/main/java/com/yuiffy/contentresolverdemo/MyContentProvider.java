@@ -5,7 +5,7 @@ import android.content.ContentValues;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.net.Uri;
-
+//wefaweklawealwnbl哇啊
 public class MyContentProvider extends ContentProvider {
 
     public MyContentProvider() {
