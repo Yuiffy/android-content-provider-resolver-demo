@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+		String s = "qwerty";
         setContentView(R.layout.activity_main);
         findViewById(R.id.button_concact).setOnClickListener(new View.OnClickListener() {
             @Override
